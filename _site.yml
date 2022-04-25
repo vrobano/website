@@ -1,0 +1,12 @@
+name: "."
+title: "Blog VR"
+description: |
+  Blog VR
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
