@@ -1,12 +1,37 @@
 name: "."
 title: "Blog VR"
+favicon: img/favicon.ico
 description: |
   Blog VR
 output_dir: "_site"
+theme: vr.css
 navbar:
   right:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-info
       href: about.html
+    - text: "Blog"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Page B"
+          href: page-b.html
+        - text: "---------"
+        - text: "Heading 2"
+        - text: "Page C"
+          href: page-c.html
+        - text: "Page D"
+          href: page-d.html 
+    - text: Temas
+      icon: fa-question fa-lg
+      href: temas.html
+  logo:
+    image: img/logo.png
+    source_url: https://www.aureasustentable.uy
+  search: true
 output: distill::distill_article

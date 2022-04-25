@@ -1,0 +1,60 @@
+/*-- WEBSITE HEADER + FOOTER --*/
+  /* These properties only apply to Distill sites and blogs  */
+  
+  .distill-site-header {
+    --title-size:       18px;    
+    --text-color:       #283845; /* edited */
+      --text-size:        15px;
+    --hover-color:      #ff9505; /* edited */
+      --bkgd-color:       #fafafa; /* edited */
+  }
+  
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/* Change bullets */
+ul > li::marker {
+  font-size: 1.125em;
+  color: #89023e;
+}
+
+/* Change link appearance */
+d-article a {
+  border-bottom: 2px solid #ff9505;
+  text-decoration: none;
+}
+
+distill-site-nav {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: #455a64;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.distill-site-nav a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.distill-site-nav a:hover {
+  color: #ff9505;
+}
+
+.distill-site-header {
+}
+
+.distill-site-footer {
+--title-size:       18px;    
+    --text-color:       white; /* edited */
+      --text-size:        15px;
+    --hover-color:      #ff9505; /* edited */
+      --bkgd-color:       #89023e; /* edited */
+  
+  
+}
+
+@media print {
+  .distill-site-nav {
+    display: none;
+  }
+}
