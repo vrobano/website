@@ -1,6 +1,6 @@
 ---
 title: "Virginia Robano"
-image: "img/9.png"
+image: "img/9.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/virginia-robano-5507203b/"
