@@ -15,3 +15,13 @@ output:
 ---
  
 ## Bio
+
+Virginia Robano holds a PhD in Economics from George Washington University (USA). She is passionate about female empowerment, spurring dynamic and innovative entrepreneurship, and democratising access to knowledge. Her purpose is to level the playing field and generate equality of opportunities.
+
+In 2020 Virginia founded Áurea Sustentable, a consulting firm specialised in sustainable development issues that brings the implementation of public policy recommendations closer to the private sector. She works with public institutions and private companies on generating a data-informed culture and on bringing gender equality to the workplace. Her last projects are related to renewable energy benchmarking in Uruguay, developing gender indicators for STEM projects at Plan Ceibal, and assessing the implementation of a regulatory sandbox in the Czech Republic.
+
+Since 2020 Virginia is an Ambassador for the Women in Data Science Conference, organised by the University of Stanford. For the past three years, Virginia has organised the WiDS Montevideo conferences.  
+
+In 2013 Virginia won the first prize in a global competition organised by the Global Development Network (GDN) which had over 700+ submissions. Her research paper "The Part-time Premium Enigma: an Assessment of the Chilean Case" won the Medal on Research and Development / Social Protection. The award was received in Manila, Philippines.
+
+Virginia has ample international experience, having worked and lived in the United States (worked at the World Bank and Inter-American Development Bank), France (OECD and Sciences Po), Argentina (Universidad Torcuato di Tella, World Bank regional office) and Uruguay (Central Bank of Uruguay, Plan Ceibal). Her current location is London, UK and she continues to work with Plan Ceibal as an advisor on data and gender equality.

@@ -1,1 +1,3 @@
-página b
+---
+title: "página b"
+--- 

@@ -1,1 +1,3 @@
-página d
+---
+title: "página d"
+--- 
