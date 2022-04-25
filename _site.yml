@@ -31,7 +31,7 @@ navbar:
       icon: fa-question fa-lg
       href: temas.html
   logo:
-    image: img/logo.png
+    image: img/favicon.ico
     source_url: https://www.aureasustentable.uy
   search: true
 output: distill::distill_article

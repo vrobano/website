@@ -1,7 +1,7 @@
 ---
 title: "Blog VR"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  ¡Te damos la bienvenida a este sitio web!
 site: distill::distill_website
 ---
 

@@ -3,10 +3,10 @@
   
   .distill-site-header {
     --title-size:       18px;    
-    --text-color:       #283845; /* edited */
+    --text-color:       #ff9505; /* edited */
       --text-size:        15px;
-    --hover-color:      #ff9505; /* edited */
-      --bkgd-color:       #fafafa; /* edited */
+    --hover-color:      white; /* edited */
+      --bkgd-color:       #283845; /* edited */
   }
   
 /*-- Additional custom styles --*/
