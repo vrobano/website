@@ -1,0 +1,17 @@
+---
+title: "Virginia Robano"
+image: "img/9.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/virginia-robano-5507203b/"
+  - label: Twitter
+    url: "https://twitter.com/vrobano"
+  - label: GitHub
+    url: "https://github.com/vrobano"
+  - label: website
+    url: "https://virginiarobano.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
